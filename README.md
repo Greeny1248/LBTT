@@ -1,1 +1,1 @@
-# LBTT
+# LBTT calculator
